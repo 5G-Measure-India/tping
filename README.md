@@ -1,0 +1,3 @@
+# tping
+
+Ping with timestamp
